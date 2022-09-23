@@ -1,3 +1,5 @@
 # psychophys
 
-analysis.R contains preregistered analyses
+preregistered_analysis.R contains preregistered analyses
+
+
