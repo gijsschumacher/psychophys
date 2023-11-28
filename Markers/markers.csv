@@ -1,0 +1,11 @@
+﻿no,description,treatment.order,label,datacollection,political,sound
+1,rest,,fixation,,,
+2,instructions,,instructions,,,
+3,treatment,treatment1,video,lowlands,1,1
+4,questionnaire,,question,,,
+5,treatment,treatment2,video,lowlands,1,1
+6,questionnaire,,question,,,
+7,treatment,treatment3,video,lowlands,1,1
+8,questionnaire,,question,,,
+9,treatment,treatment4,video,lowlands,1,1
+10,questionnaire,,question,,,
